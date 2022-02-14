@@ -1,0 +1,3 @@
+Loan Schedule Simulator.
+
+See the docstring of loan_calc.py for a detailed explanation. Run loan_calc.py to see some example outputs. The numbers in the example outputs were chosen arbitrarily.
